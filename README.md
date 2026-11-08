@@ -1,34 +1,44 @@
-# Awesome API Governance & Linting (Spectral & OpenAPI Ecosystem)
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome API Governance &amp; Linting Banner" width="100%">
+</p>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-API-Governance-Linting-Spectral/pulls)
+# 🚀 Awesome API Governance & Linting (Spectral & OpenAPI Ecosystem)
 
-A curated list of awesome **API Governance**, **OpenAPI Linting**, **Spectral Rulesets**, and specification validation tools. Ensure contract consistency, prevent breaking changes, enforce OWASP security policies, and automate design style guides across your microservices and API lifecycles.
+<p align="left">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-API-Governance-Linting-Spectral/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
+  <a href="https://github.com/ihhandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
----
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [Commercial & SaaS Platforms](#commercial--saas-platforms)
-- [Open-Source Linters & Governance Tools](#open-source-linters--governance-tools)
-- [Contributing](#contributing)
-- [License](#license)
+A curated list of awesome **API Governance**, **OpenAPI Linting**, **Spectral Rulesets**, and specification validation tools. Ensure contract consistency, prevent breaking changes, enforce OWASP security policies, and automate design style guides across your microservices and API lifecycles. 🛡️✨
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📑 Table of Contents
 
-The global API management and governance market is estimated at **$6.8B – $8.8B** (2024–2025) and is projected to expand beyond **$13.5B by 2026** at a CAGR exceeding 20%, driven by enterprise microservices expansion, API-first mandates, and AI agent integration requirements. 
-
-The sector exhibits a hybrid market structure: it is **concentrated at the platform layer** among enterprise cloud and gatekeeper suites (such as Google Cloud Apigee, Postman, SmartBear, and Microsoft Azure API Management), but remains **highly fragmented in the design-time governance, automated contract linting, and security policy enforcement niches**, where specialized DevSecOps vendors and vibrant open-source communities drive rapid innovation and open standards (OpenAPI, Spectral rulesets, Arazzo).
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [💼 Commercial & SaaS Platforms](#-commercial--saas-platforms)
+- [🛠️ Open-Source Linters & Governance Tools](#️-open-source-linters--governance-tools)
+- [🤝 Contributing](#-contributing)
+- [⭐ Star History](#-star-history)
+- [💖 Support](#-support)
+- [📜 License](#-license)
 
 ---
 
-## Commercial & SaaS Platforms
+## 📊 Sector Overview & Market Dynamics
 
-The table below outlines commercial SaaS platforms offering automated API linting, contract security checks, and enterprise-wide API governance. Sorted by corporate valuation and scale (descending).
+The global API management and governance market is estimated at **$6.8B – $8.8B** (2024–2025) and is projected to expand beyond **$13.5B by 2026** at a CAGR exceeding 20%, driven by enterprise microservices expansion, API-first mandates, and AI agent integration requirements. 📈
+
+The sector exhibits a hybrid market structure: it is **concentrated at the platform layer** among enterprise cloud and gatekeeper suites (such as Google Cloud Apigee, Postman, SmartBear, and Microsoft Azure API Management), but remains **highly fragmented in the design-time governance, automated contract linting, and security policy enforcement niches**, where specialized DevSecOps vendors and vibrant open-source communities drive rapid innovation and open standards (OpenAPI, Spectral rulesets, Arazzo). 🌐
+
+---
+
+## 💼 Commercial & SaaS Platforms
+
+The table below outlines commercial SaaS platforms offering automated API linting, contract security checks, and enterprise-wide API governance. Sorted by corporate valuation and scale (descending). 🏢
 
 | Platform / Vendor | Starting Tier Price | Free Tier / Trial Limits | Company Size / Valuation & Revenue | Key Governance Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
@@ -40,9 +50,9 @@ The table below outlines commercial SaaS platforms offering automated API lintin
 
 ---
 
-## Open-Source Linters & Governance Tools
+## 🛠️ Open-Source Linters & Governance Tools
 
-Curated open-source linters, CLI tools, and specification validators supporting Spectral rulesets and OpenAPI standards. Sorted by GitHub stars (descending).
+Curated open-source linters, CLI tools, and specification validators supporting Spectral rulesets and OpenAPI standards. Sorted by GitHub stars (descending). 🌟
 
 | Tool | Stars | Description |
 | :--- | :--- | :--- |
@@ -61,9 +71,9 @@ Curated open-source linters, CLI tools, and specification validators supporting 
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
-Contributions are welcome! Please read the contribution guidelines before submitting:
+Contributions are welcome! Please read the contribution guidelines before submitting: 💡
 
 1. Fork this repository.
 2. Create a new branch: `git checkout -b feature/new-tool`.
@@ -74,6 +84,23 @@ Contributions are welcome! Please read the contribution guidelines before submit
 
 ---
 
-## License
+##  Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-API-Governance-Linting-Spectral&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-API-Governance-Linting-Spectral&type=date&legend=top-left)
+
+---
+
+## 💖 Support
+
+Thank you for visiting this repository! If you found this curated collection useful for your API governance and OpenAPI linting workflows:
+
+- ⭐ **Star** this repository to help others discover it.
+- 🍴 **Fork** and contribute new tools or rulesets.
+- 📢 **Share** with your developer and engineering community.
+- ☕ **Buy me a coffee**: If you'd like to support continued maintenance and curation of open developer resources, consider sponsoring via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📜 License
 
 This curated list is licensed under the [MIT License](LICENSE).
