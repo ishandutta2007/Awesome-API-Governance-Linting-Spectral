@@ -52,9 +52,9 @@ The table below outlines commercial SaaS platforms offering automated API lintin
 
 ## 🛠️ Open-Source Linters & Governance Tools
 
-Curated open-source linters, CLI tools, and specification validators supporting Spectral rulesets and OpenAPI standards. Sorted by GitHub stars (descending). 🌟
+Curated open-source linters, CLI tools, and specification validators supporting Spectral rulesets and OpenAPI standards. Sorted by GitHub_Stars (descending). 🌟
 
-| Tool | Stars | Description |
+| Tool | GitHub_Stars | Description |
 | :--- | :--- | :--- |
 | [**OpenAPI Generator**](https://github.com/OpenAPITools/openapi-generator) | [![OpenAPI Generator Stars](https://img.shields.io/github/stars/OpenAPITools/openapi-generator?style=social&color=white)](https://github.com/OpenAPITools/openapi-generator/stargazers) | Generates client SDKs, server stubs, and API documentation, with built-in validation of OpenAPI v2, v3, and v3.1 definitions. |
 | [**Fern**](https://github.com/fern-api/fern) | [![Fern Stars](https://img.shields.io/github/stars/fern-api/fern?style=social&color=white)](https://github.com/fern-api/fern/stargazers) | Input OpenAPI, output SDKs and docs; includes built-in spec validation, breaking change detection, and strict schema linting. |
@@ -79,7 +79,7 @@ Contributions are welcome! Please read the contribution guidelines before submit
 2. Create a new branch: `git checkout -b feature/new-tool`.
 3. Add your tool to the appropriate section maintaining sorting order:
    - **SaaS Table**: Sorted by valuation/revenue descending.
-   - **Open Source Table**: Sorted by GitHub stars descending with badge link to stargazers.
+   - **Open Source Table**: Sorted by GitHub_Stars descending with badge link to stargazers.
 4. Commit your changes and open a pull request.
 
 ---
